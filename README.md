@@ -69,3 +69,7 @@
 
 ###
 <h2 align="left">Me chamo Danilo e moro no Brasil</h2>
+
+<img src="https://raw.githubusercontent.com/DaniloAcorrea/DaniloAcorrea/output/snake.svg" alt="Snake animation" />
+
+###
